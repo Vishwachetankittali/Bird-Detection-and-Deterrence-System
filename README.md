@@ -27,6 +27,12 @@ This system is particularly useful for **agriculture, conservation research, and
 
 ---
 
+## Flowchart
+
+  ![Alt text](Images/Flowchart.PNG)
+
+  ---
+
 ## 🔧 Technical Details  
 - **Programming Language**: Python 🐍  
 - **Object Detection Model**: YOLOv5 (You Only Look Once)  
@@ -40,6 +46,13 @@ This system is particularly useful for **agriculture, conservation research, and
 - **Dataset**: Trained on a dataset of bird images  
 
 ---
+
+## Working Mechanism
+
+  ![Alt text](Images/Working_Mechanism.PNG)
+
+  ---
+#[Video Link](https://drive.google.com/file/d/1yX0ilasJO9Z3ZYk5PbAekSW0ftmIyNoQ/view?usp=sharing)
 
 ## 📌 Why is This Useful?  
 🌿 **Protects crops and gardens** from bird damage  
